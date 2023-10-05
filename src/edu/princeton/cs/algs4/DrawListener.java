@@ -61,7 +61,7 @@ public interface DrawListener {
      * A mouse click is triggered only if the user presses a mouse button
      * and then releases it quickly, without moving the mouse.
      * It does not work with touch events.
-     * The {@link mousePressed} method is generally preferred for
+     * The { mousePressed} method is generally preferred for
      * detecting mouse clicks.
      *
      * @param x the x-coordinate of the mouse
